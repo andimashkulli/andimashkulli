@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pacienti](pacientii.com)
 
-- 📫 Reach me at: **andi@pacientii.com**
+- 📫 Reach me at **andi@pacientii.com**
 
 - ⚡ Fun fact, **I love playing piano when I have a bug in my code :)**
 
