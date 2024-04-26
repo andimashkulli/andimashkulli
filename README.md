@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andi@pacientii.com**
 
-- ⚡ Fun fact **I love playing piano when I have a bug in my code :)**
+- ⚡ Fun fact, **I love piano when I have a bug in my code :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
