@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andi Mashkulli</h1>
 <h3 align="center">A passionate frontend developer from Kosovo</h3>
 
-- 🔭 I’m currently working on [Pacienti](pacientii.com)
+- 🔭 I’m currently working on [Pacienti](https://www.pacientii.com/)
 
 - 📫 Reach me at **andi@pacientii.com**
 
